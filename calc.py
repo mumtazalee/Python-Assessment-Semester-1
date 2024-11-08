@@ -1,12 +1,12 @@
-num1 = int(input("Give a number"))
-num2 = int(input("Give a number"))
+num1 = int(input("Give a number: "))
+num2 = int(input("Give a number: "))
 
 sum = num1+num2
 diff = num1-num2
 div = num1/num2
 prod = num1*num2
 
-print("the sum is ", sum)
-print("the diff is ", diff)
-print("the division is ", div)
-print("the sum product ", prod)
+print("The total of sum: ", sum)
+print("The total of difference: ", diff)
+print("The total of division: ", div)
+print("The total product: ", prod)
