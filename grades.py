@@ -1,21 +1,21 @@
-mark = int(input("Enter the student's mark: "))
+student_mark = int(input("Enter the student's mark: "))
 
-if 70 <= mark <= 100:
-        print ("A")
+if 70 <= student_mark <= 100:
+        print ("The Grade of the student is A")
 
-elif 60 <= mark <= 69:
-        print ("B")
+elif 60 <= student_mark <= 69:
+        print ("The Grade of the student is B")
     
-elif 50 <= mark <= 59:
-        print ("C")
-elif 40 <= mark <= 49:
-        print ("D")
-elif 30 <= mark <= 39:
-        print ("E")
+elif 50 <= student_mark <= 59:
+        print ("The Grade of the student is C")
+elif 40 <= student_mark <= 49:
+        print ("The Grade of the student is D")
+elif 30 <= student_mark <= 39:
+        print ("The Grade of the student is E")
     
-elif 20 <= mark <= 29:
-        print ("F")
+elif 20 <= student_mark <= 29:
+        print ("The Grade of the student is F")
     
 else:
-    grade = "Invalid mark"
-    print ("Invalid mark")
+    grade = "Invalid student mark"
+    print ("Invalid student's mark")
