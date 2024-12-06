@@ -1,8 +1,11 @@
 #Unit Assessment
-1. Creating a GitHub Resporitory
+1. Creating a GitHub Repository
 2. Variables and IO
-Assessment 3
-Assessment 4
-Assessment 5
-Assessment 8
-Assessment 9
+3. Grades
+4. Loops
+5. Functions
+6. Listops
+7. File Handlers
+8. Dictionaries
+9. Modules
+10. Buggy_code
