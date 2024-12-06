@@ -1,6 +1,6 @@
 #Unit Assessment
-Creating a GitHub Resporitory
-Assessment 2
+1. Creating a GitHub Resporitory
+2. Variables and IO
 Assessment 3
 Assessment 4
 Assessment 5
